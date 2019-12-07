@@ -1,0 +1,25 @@
+{
+  "name": "npm-lab-nyc-clarke-web-100719",
+  "version": "1.0.0",
+  "description": "color-clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeneHFang/npm-lab-nyc-clarke-web-100719.git"
+  },
+  "keywords": [
+    "k"
+  ],
+  "author": "Gene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeneHFang/npm-lab-nyc-clarke-web-100719/issues"
+  },
+  "homepage": "https://github.com/GeneHFang/npm-lab-nyc-clarke-web-100719#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
