@@ -1,0 +1,25 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "app that creates a clock, which changes color every second",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elikantor/npm-lab-nyc-clarke-web-100719.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Eli Kantor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elikantor/npm-lab-nyc-clarke-web-100719/issues"
+  },
+  "homepage": "https://github.com/elikantor/npm-lab-nyc-clarke-web-100719#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
